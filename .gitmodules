@@ -1,0 +1,6 @@
+[submodule "hexo-theme-cactus"]
+	path = hexo-theme-cactus
+	url = https://github.com/nkepling/hexo-theme-cactus
+[submodule "themes/cactusls"]
+	path = themes/cactusls
+	url = https://github.com/nkepling/hexo-theme-cactus

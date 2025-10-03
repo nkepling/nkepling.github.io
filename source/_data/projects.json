@@ -1,0 +1,15 @@
+[
+  {
+    "name": "NS-Gym",
+    "url": "https://github.com/scope-lab-vu/ns_gym",
+    "desc": "One of the developers and maintainers of **NS-Gym**, a comprehensive, open-source simulation framework for non-stationary Markov decision processes. We got our paper on NS-Gym accepted at **NeurIPS 2025**!"
+  },
+  {
+    "name": "CPS PI Meeting 2025: NS-Gym Tutorial",
+    "desc": "Co-presented a tutorial at the 2025 NSF Cyber-Physical Systems Principal Investigators' Meeting titled 'Decision-Making under Non-Stationarity: Concepts, Trends, and Challenges.'"
+  },
+  {
+    "name": "Workshop Tutorial @ ICAA 2024",
+    "desc": "Gave my **first** tutorial on NS-Gym at the workshop 'Recent Trends in Sequential Decision-Making' during the 2024 **International Conference on Assured Autonomy (ICAA)**."
+  }
+]
