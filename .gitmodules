@@ -4,3 +4,6 @@
 [submodule "themes/cactusls"]
 	path = themes/cactusls
 	url = https://github.com/nkepling/hexo-theme-cactus
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = git@github.com:nkepling/hexo-theme-cactus.git
