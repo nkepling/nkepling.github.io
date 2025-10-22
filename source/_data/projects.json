@@ -1,8 +1,8 @@
 [
   {
     "name": "NS-Gym",
-    "url": "https://github.com/scope-lab-vu/ns_gym",
-    "desc": "One of the developers and maintainers of **NS-Gym**, a comprehensive, open-source simulation framework for non-stationary Markov decision processes. We got our paper on NS-Gym accepted at **NeurIPS 2025**!"
+    "url": "https://nsgym.io",
+    "desc": "One of the developers and maintainers of **NS-Gym**, a comprehensive, open-source simulation framework for non-stationary Markov decision processes. We got our paper on NS-Gym accepted at **NeurIPS 2025**! Check out [nsgym.io](https://nsgym.io)."
   },
   {
     "name": "CPS PI Meeting 2025: NS-Gym Tutorial",
