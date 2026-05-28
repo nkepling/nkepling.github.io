@@ -1,4 +1,13 @@
-[
+[ {
+  "name":"AAMAS 2026 Competition on Evaluating Adaptive Decision Agents under Non-Stationarity",
+  "url":"https://nsgym.io/aamas2026_competition.html",
+  "desc":"Concluded the first competition on non-stationarity at the AAMAS Conference 2026. Thank you to all competitors for making the competiton possible! We plan to keep the competition leaderboard open for the rest of the year so if you want to test how your AI algorithms perform under conditions different from those during training, check out https://nsgym.io/."
+  },
+  {
+    "name": "CPS-IoT-Week Tutorial on Decision-Making Under Non-Stationarity",
+    "url": "https://sites.google.com/view/ns-mdp-tutorial/home",
+    "desc": "Co-presented a tutorial on the fundamental concepts, mathematical models, algorithms, and open challenges in decision-making under non-stationarity at IEEE/ACM CPS-IoT week 2026 in Saint-Malo, France."
+  },
   {
     "name": "NS-Gym",
     "url": "https://nsgym.io",
